@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "DesktopUI\UI.csproj", "{5798A8F0-0A0A-4C33-97CB-65429FAB1891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{7D0D0389-61BC-4970-8E01-110643F2F8CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D0D0389-61BC-4970-8E01-110643F2F8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0D0389-61BC-4970-8E01-110643F2F8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0D0389-61BC-4970-8E01-110643F2F8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0D0389-61BC-4970-8E01-110643F2F8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5798A8F0-0A0A-4C33-97CB-65429FAB1891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5798A8F0-0A0A-4C33-97CB-65429FAB1891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5798A8F0-0A0A-4C33-97CB-65429FAB1891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5798A8F0-0A0A-4C33-97CB-65429FAB1891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28DDA323-3685-4727-9C13-74574F39CEFA}
+	EndGlobalSection
+EndGlobal
