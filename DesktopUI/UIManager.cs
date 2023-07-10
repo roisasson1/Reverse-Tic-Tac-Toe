@@ -23,8 +23,6 @@ namespace UI
             {
                 new BoardForm(r_Game).ShowDialog();
             }
-
-
         }
     }
 }

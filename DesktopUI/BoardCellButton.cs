@@ -33,7 +33,7 @@ namespace UI
             {
                 this.Text = k_Empty;
                 this.Enabled = true;
-                this.BackColor = System.Drawing.Color.LightGray;
+                this.UseVisualStyleBackColor = true;
             }
             else
             {
@@ -47,6 +47,7 @@ namespace UI
                     this.Text = k_PlayerTwoSymbol;
                     this.BackColor = System.Drawing.Color.Green;
                 }
+
                 this.Enabled = false;
             }
         }

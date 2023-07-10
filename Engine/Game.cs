@@ -17,10 +17,7 @@ namespace Engine
 
         public bool isPlayerTwoComputer
         {
-            get
-            {
-                return m_IsPlayerTwoComputer;
-            }
+            get { return m_IsPlayerTwoComputer; }
         }
 
         public bool IsGameOver

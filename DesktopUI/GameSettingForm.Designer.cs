@@ -225,7 +225,7 @@ namespace UI
             this.MinimizeBox = false;
             this.Name = "GameSettingForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-            this.Text = "Game Setting";
+            this.Text = "Game Settings";
             ((System.ComponentModel.ISupportInitialize)(this.m_numericUpDownRows)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.m_numericUpDownCols)).EndInit();
             this.ResumeLayout(false);

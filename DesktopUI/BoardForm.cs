@@ -56,7 +56,7 @@ namespace UI
         {
             string currPlayer = r_Game.CurrPlayerName;
 
-            if(m_LabelPlayerOne.Text.Contains(currPlayer))
+            if (m_LabelPlayerOne.Text.Contains(currPlayer))
             {
                 m_LabelPlayerOne.Font = new Font(m_LabelPlayerOne.Font, FontStyle.Bold);
                 r_LabelPlayerOneScore.Font = new Font(r_LabelPlayerOneScore.Font, FontStyle.Bold);
